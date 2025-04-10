@@ -1,4 +1,4 @@
-Print('Hello I am Callculator......')
+name = 'Sanwal'
 
 
 
